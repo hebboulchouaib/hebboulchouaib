@@ -26,4 +26,6 @@ I'm a third-year computer science student at USTHB. I like building things from 
   <img width="48%" alt="GitHub stats" src="stats.svg" />
   <img width="48%" alt="Top languages" src="languages.svg" />
 </p>
-
+<p align="center">
+  <img width="100%" alt="Contribution activity" src="heatmap.svg" />
+</p>
