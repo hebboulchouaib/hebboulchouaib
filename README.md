@@ -3,7 +3,7 @@
 </div>
 <br>
 
-I'm a third-year computer science student at USTHB. I like building things from start to finish: a website, a game in C, a calculator in x86 assembly. What pulls me in most is what happens underneath, how code turns into something a machine actually runs.
+I'm a third-year computer science student at USTHB. I like building things from start to finish: websites, games, apps . What pulls me in most is what happens underneath, how code turns into something a machine actually runs.
 
 <br>
 
@@ -27,4 +27,10 @@ I'm a third-year computer science student at USTHB. I like building things from 
 <p align="center">
   <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hebboulchouaib&show_icons=true&hide_border=false&bg_color=08080a&border_color=2a2a2e&title_color=b04545&icon_color=b04545&text_color=9a958f&ring_color=b04545&border_radius=6" />
   <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebboulchouaib&layout=donut&bg_color=08080a&border_color=2a2a2e&title_color=b04545&text_color=9a958f&border_radius=6" />
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Contribution activity" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hebboulchouaib&bg_color=08080a&color=9a958f&line=b04545&point=e8e4df&area=true&area_color=b04545&hide_border=true&title_color=b04545" />
 </p>
