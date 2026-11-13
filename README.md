@@ -22,12 +22,7 @@ I'm a third-year computer science student at USTHB. I like building things from 
 <p><b>Tools</b><br>
 <img src="https://img.shields.io/badge/Git-14141a?style=for-the-badge&logo=git&logoColor=b04545" alt="Git"> <img src="https://img.shields.io/badge/GitHub-14141a?style=for-the-badge&logo=github&logoColor=b04545" alt="GitHub"> <img src="https://img.shields.io/badge/Linux-14141a?style=for-the-badge&logo=linux&logoColor=b04545" alt="Linux"></p>
 
-<br>
-
-<p align="center">
-  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hebboulchouaib&show_icons=true&hide_border=false&bg_color=08080a&border_color=2a2a2e&title_color=b04545&icon_color=b04545&text_color=9a958f&ring_color=b04545&border_radius=6" />
-  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebboulchouaib&layout=donut&bg_color=08080a&border_color=2a2a2e&title_color=b04545&text_color=9a958f&border_radius=6" />
-</p>
+<img height="180" alt="Top languages" src="languages.svg" />
 
 <br>
 
