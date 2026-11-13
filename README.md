@@ -7,7 +7,15 @@ I'm a third-year computer science student at USTHB. I like building things from 
 
 <br>
 
-**Languages** &nbsp; `C` `Java` `Python` `JavaScript` `SQL` `HTML` `CSS` `x86 Assembly`
+**Languages**
+
+<img src="https://img.shields.io/badge/C-14141a?style=for-the-badge&logo=c&logoColor=b04545" alt="C">
+<img src="https://img.shields.io/badge/Java-14141a?style=for-the-badge&logo=openjdk&logoColor=b04545" alt="Java">
+<img src="https://img.shields.io/badge/Python-14141a?style=for-the-badge&logo=python&logoColor=b04545" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-14141a?style=for-the-badge&logo=javascript&logoColor=b04545" alt="JavaScript">
+<img src="https://img.shields.io/badge/SQL-14141a?style=for-the-badge" alt="SQL">
+<img src="https://img.shields.io/badge/HTML-14141a?style=for-the-badge&logo=html5&logoColor=b04545" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-14141a?style=for-the-badge&logo=css3&logoColor=b04545" alt="CSS">
 
 **Web** &nbsp; `React.js` `Node.js` `Streamlit`
 
