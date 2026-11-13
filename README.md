@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Hebboul Abderrahmane Chouaib — Software Engineering" width="100%">
+  <img src="assets/profile-banner.gif"
+       alt="Hebboul Abderrahmane Chouaib — Software Engineering"
+       width="100%">
 </p>
 
 <p align="center">
