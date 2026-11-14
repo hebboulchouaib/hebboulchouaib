@@ -8,25 +8,29 @@ I'm a third-year computer science student at USTHB. I like building things from 
 <br>
 
 <p align="center">
-  <a href="https://hebboulchouaib.github.io/portfolio_website/"><img src="https://img.shields.io/badge/PORTFOLIO-14141a?style=for-the-badge&logo=githubpages&logoColor=b04545" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/chouaib-hebboul-4b8b51394/"><img src="https://img.shields.io/badge/LINKEDIN-14141a?style=for-the-badge&logo=linkedin&logoColor=b04545" alt="LinkedIn"></a>
+  <a href="https://hebboulchouaib.github.io/portfolio_website/"><img src="https://img.shields.io/badge/PORTFOLIO-14141a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYjA0NTQ1IiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkuNSIvPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjEyIiByeD0iNCIgcnk9IjkuNSIvPjxwYXRoIGQ9Ik0yLjUgMTJoMTkiLz48L3N2Zz4%3D" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/chouaib-hebboul-4b8b51394/"><img src="https://img.shields.io/badge/LINKEDIN-14141a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2IwNDU0NSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM2VjloMy40MXYxLjU2aC4wNWMuNDctLjkgMS42My0xLjg1IDMuMzYtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
 </p>
-
 <img src="divider.svg" width="100%" alt="">
 
 <p><b>Languages</b><br>
+  
 <img src="https://img.shields.io/badge/C-14141a?style=for-the-badge&logo=c&logoColor=b04545" alt="C"> <img src="https://img.shields.io/badge/Java-14141a?style=for-the-badge&logo=openjdk&logoColor=b04545" alt="Java"> <img src="https://img.shields.io/badge/Python-14141a?style=for-the-badge&logo=python&logoColor=b04545" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-14141a?style=for-the-badge&logo=javascript&logoColor=b04545" alt="JavaScript"> <img src="https://img.shields.io/badge/x86_Assembly-14141a?style=for-the-badge&logo=intel&logoColor=b04545" alt="x86 Assembly"> <img src="https://img.shields.io/badge/SQL*Plus-14141a?style=for-the-badge&logo=oracle&logoColor=b04545" alt="SQL*Plus"> <img src="https://img.shields.io/badge/HTML-14141a?style=for-the-badge&logo=html5&logoColor=b04545" alt="HTML"> <img src="https://img.shields.io/badge/CSS-14141a?style=for-the-badge&logo=css3&logoColor=b04545" alt="CSS"></p>
 
 <p><b>Web</b><br>
+  
 <img src="https://img.shields.io/badge/React-14141a?style=for-the-badge&logo=react&logoColor=b04545" alt="React"> <img src="https://img.shields.io/badge/Node.js-14141a?style=for-the-badge&logo=nodedotjs&logoColor=b04545" alt="Node.js"> <img src="https://img.shields.io/badge/Streamlit-14141a?style=for-the-badge&logo=streamlit&logoColor=b04545" alt="Streamlit"></p>
 
 <p><b>Desktop & libraries</b><br>
+  
 <img src="https://img.shields.io/badge/SDL2-14141a?style=for-the-badge" alt="SDL2"> <img src="https://img.shields.io/badge/JavaFX-14141a?style=for-the-badge" alt="JavaFX"> <img src="https://img.shields.io/badge/JDBC-14141a?style=for-the-badge" alt="JDBC"></p>
 
 <p><b>Data</b><br>
+  
 <img src="https://img.shields.io/badge/Oracle-14141a?style=for-the-badge&logo=oracle&logoColor=b04545" alt="Oracle"> <img src="https://img.shields.io/badge/Supabase-14141a?style=for-the-badge&logo=supabase&logoColor=b04545" alt="Supabase"></p>
 
 <p><b>Tools</b><br>
+  
 <img src="https://img.shields.io/badge/Git-14141a?style=for-the-badge&logo=git&logoColor=b04545" alt="Git"> <img src="https://img.shields.io/badge/GitHub-14141a?style=for-the-badge&logo=github&logoColor=b04545" alt="GitHub"> <img src="https://img.shields.io/badge/Linux-14141a?style=for-the-badge&logo=linux&logoColor=b04545" alt="Linux"></p>
 <img src="divider.svg" width="100%" alt="">
 <p align="center">
