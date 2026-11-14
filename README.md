@@ -6,7 +6,14 @@
 I'm a third-year computer science student at USTHB. I like building things from start to finish: websites, games, apps . What pulls me in most is what happens underneath, how code turns into something a machine actually runs.
 
 <br>
+
+<p align="center">
+  <a href="https://hebboulchouaib.github.io/portfolio_website/"><img src="https://img.shields.io/badge/PORTFOLIO-14141a?style=for-the-badge&logo=githubpages&logoColor=b04545" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/chouaib-hebboul-4b8b51394/"><img src="https://img.shields.io/badge/LINKEDIN-14141a?style=for-the-badge&logo=linkedin&logoColor=b04545" alt="LinkedIn"></a>
+</p>
+
 <img src="divider.svg" width="100%" alt="">
+
 <p><b>Languages</b><br>
 <img src="https://img.shields.io/badge/C-14141a?style=for-the-badge&logo=c&logoColor=b04545" alt="C"> <img src="https://img.shields.io/badge/Java-14141a?style=for-the-badge&logo=openjdk&logoColor=b04545" alt="Java"> <img src="https://img.shields.io/badge/Python-14141a?style=for-the-badge&logo=python&logoColor=b04545" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-14141a?style=for-the-badge&logo=javascript&logoColor=b04545" alt="JavaScript"> <img src="https://img.shields.io/badge/x86_Assembly-14141a?style=for-the-badge&logo=intel&logoColor=b04545" alt="x86 Assembly"> <img src="https://img.shields.io/badge/SQL*Plus-14141a?style=for-the-badge&logo=oracle&logoColor=b04545" alt="SQL*Plus"> <img src="https://img.shields.io/badge/HTML-14141a?style=for-the-badge&logo=html5&logoColor=b04545" alt="HTML"> <img src="https://img.shields.io/badge/CSS-14141a?style=for-the-badge&logo=css3&logoColor=b04545" alt="CSS"></p>
 
