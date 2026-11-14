@@ -26,15 +26,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
 
-      - name: Generate activity heatmap
-        run: python .github/scripts/heatmap.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USER: ${{ github.repository_owner }}
-
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add languages.svg stats.svg heatmap.svg
+          git add languages.svg stats.svg 
           git diff --staged --quiet || (git commit -m "Update profile cards" && git push)
