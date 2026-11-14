@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="64" viewBox="0 0 800 64" role="presentation">
+  <rect width="800" height="64" fill="#08080a"/>
+  <line x1="40" y1="14" x2="760" y2="14" stroke="#2a2a2e"/>
+  <line x1="40" y1="14" x2="76" y2="14" stroke="#a63a3a" stroke-width="2"/>
+  <text x="40" y="44" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" letter-spacing="2.5" fill="#6f6a66">CODE / CREATE / LEARN</text>
+  <text x="760" y="44" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" letter-spacing="2.5" fill="#6f6a66">ALGIERS</text>
+</svg>
