@@ -3,11 +3,11 @@
 <rect x="0.5" y="0.5" width="399" height="173" rx="6" fill="none" stroke="#2a2a2e"/>
 <text x="24" y="36" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2.5" fill="#b04545">GITHUB STATS</text>
 <circle cx="78" cy="100" r="40" fill="none" stroke="#1a1a1e" stroke-width="6"/>
-<circle cx="78" cy="100" r="40" fill="none" stroke="#b04545" stroke-width="6" stroke-linecap="round" stroke-dasharray="191.0 251.3" transform="rotate(-90 78 100)"/>
-<text x="78" y="108" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#e8e4df">13</text>
+<circle cx="78" cy="100" r="40" fill="none" stroke="#b04545" stroke-width="6" stroke-linecap="round" stroke-dasharray="158.2 251.3" transform="rotate(-90 78 100)"/>
+<text x="78" y="108" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#e8e4df">14</text>
 <text x="78" y="122" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#6f6a66">LEVEL</text>
 <text x="168" y="74" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" letter-spacing="2" fill="#6f6a66">COMMITS THIS YEAR</text>
-<text x="376" y="74" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e8e4df">81</text>
+<text x="376" y="74" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e8e4df">104</text>
 <line x1="168" y1="83" x2="376" y2="83" stroke="#1a1a1e"/>
 <text x="168" y="100" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" letter-spacing="2" fill="#6f6a66">PULL REQUESTS</text>
 <text x="376" y="100" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e8e4df">4</text>
