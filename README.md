@@ -6,7 +6,7 @@
 I'm a third-year computer science student at USTHB. I like building things from start to finish: websites, games, apps . What pulls me in most is what happens underneath, how code turns into something a machine actually runs.
 
 <br>
-
+<img src="divider.svg" width="100%" alt="">
 <p><b>Languages</b><br>
 <img src="https://img.shields.io/badge/C-14141a?style=for-the-badge&logo=c&logoColor=b04545" alt="C"> <img src="https://img.shields.io/badge/Java-14141a?style=for-the-badge&logo=openjdk&logoColor=b04545" alt="Java"> <img src="https://img.shields.io/badge/Python-14141a?style=for-the-badge&logo=python&logoColor=b04545" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-14141a?style=for-the-badge&logo=javascript&logoColor=b04545" alt="JavaScript"> <img src="https://img.shields.io/badge/x86_Assembly-14141a?style=for-the-badge&logo=intel&logoColor=b04545" alt="x86 Assembly"> <img src="https://img.shields.io/badge/SQL*Plus-14141a?style=for-the-badge&logo=oracle&logoColor=b04545" alt="SQL*Plus"> <img src="https://img.shields.io/badge/HTML-14141a?style=for-the-badge&logo=html5&logoColor=b04545" alt="HTML"> <img src="https://img.shields.io/badge/CSS-14141a?style=for-the-badge&logo=css3&logoColor=b04545" alt="CSS"></p>
 
@@ -21,7 +21,7 @@ I'm a third-year computer science student at USTHB. I like building things from 
 
 <p><b>Tools</b><br>
 <img src="https://img.shields.io/badge/Git-14141a?style=for-the-badge&logo=git&logoColor=b04545" alt="Git"> <img src="https://img.shields.io/badge/GitHub-14141a?style=for-the-badge&logo=github&logoColor=b04545" alt="GitHub"> <img src="https://img.shields.io/badge/Linux-14141a?style=for-the-badge&logo=linux&logoColor=b04545" alt="Linux"></p>
-
+<img src="divider.svg" width="100%" alt="">
 <p align="center">
   <img width="48%" alt="GitHub stats" src="stats.svg" />
   <img width="48%" alt="Top languages" src="languages.svg" />
